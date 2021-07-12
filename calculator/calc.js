@@ -43,9 +43,9 @@ reader.question("What would you like to calculate?", function(input){
 	}
 
 
-	console.log('mathSymbol - ', mathSymbol);
-	console.log("number 1 - ", +num1);
-	console.log("number 2 - ", +num2);
+	// console.log('mathSymbol - ', mathSymbol);
+	// console.log("number 1 - ", +num1);
+	// console.log("number 2 - ", +num2);
 	
 
 	// This line closes the connection to the command line interface.
